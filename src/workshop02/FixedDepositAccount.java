@@ -38,5 +38,4 @@ public class FixedDepositAccount extends BankAccount{
         return accBal;
     }
 
-
 }
